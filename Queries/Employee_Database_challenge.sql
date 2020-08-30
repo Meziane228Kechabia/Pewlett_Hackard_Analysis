@@ -1,4 +1,4 @@
--- C h a l l e n g e    s t a r t s    h e r e
+-- C h a l l e n g e    S t a r t s    H e r e
 -- Deliverable 1
 SELECT e.emp_no, e.first_name, e.last_name, t.title, t.from_date, t.to_date
 INTO retirement_titles
