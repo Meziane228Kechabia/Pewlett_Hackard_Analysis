@@ -11,7 +11,8 @@ To help Bobby to simply understand the provided data and 	giving him elements to
 
 
 # Results
-	Among the employees about to retire:
+	Among the employees about to retire, see link: 
+	https://github.com/Meziane228Kechabia/Pewlett_Hackard_Analysis/blob/master/Data/retiring_titles.csv
 •	29,414 of them were senior engineer and only 0.77% were replaced for the same position
 •	28,254 of them were senior staff and only 1.77% were replaced for the same position.
 •	14,222 of them were engineer and only 3.18% were replaced for the same position.
