@@ -12,11 +12,11 @@ To help Bobby to simply understand the provided data and 	giving him elements to
 
 # Results
 	Among the employees about to retire:
-•	32.54% of them were senior engineer and only 0.77% were replaced for the same position
-•	31.25 of them were senior staff and only 1.77% were replaced for the same position.
-•	15.73% of them were engineer and only 3.18% were replaced for the same position.
-•	4.98% of them were technique leader and only 1.69% were replaced for the same position.
-•	1.95% of them were assistant engineer and only 3.80% were replaced for the same position.
+•	29,414 of them were senior engineer and only 0.77% were replaced for the same position
+•	28,254 of them were senior staff and only 1.77% were replaced for the same position.
+•	14,222 of them were engineer and only 3.18% were replaced for the same position.
+•	4,502 of them were technique leader and only 1.69% were replaced for the same position.
+•	1,761 of them were assistant engineer and only 3.80% were replaced for the same position.
 
 # Summary
 I do not have access to see Pewlett Hackard financial reports, but if its finance is sufficient to hire and train new employees and quickly replacing those who have been promoted, then it would be the best time.
